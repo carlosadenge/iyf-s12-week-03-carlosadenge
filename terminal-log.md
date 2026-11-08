@@ -19,8 +19,17 @@ mkdir ~/terminal-practice
 cd ~/terminal-practice
 mkdir -p my-project/src/css
 mkdir -p my-project/src/js
-mkdir -p my-project/src/images
-mkdir my-project/docs
-mkdir my-project/tests
-touch my-project/README.md
-ls -R my-project
+
+## What each command did:
+- pwd → showed my current directory
+- ls → listed files and folders
+- cd → moved between folders
+- mkdir -p → created nested folders
+- touch → created an empty file
+- ls -R → showed the full folder structure
+- mkdir -p my-project/src/images
+- mkdir my-project/docs
+- mkdir my-project/tests
+- touch my-project/README.md
+- ls -R my-project
+
