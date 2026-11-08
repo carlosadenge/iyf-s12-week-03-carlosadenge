@@ -101,7 +101,8 @@
 - How to merge a feature branch into main
 - How to delete a branch after merging
 
-## Merge Conflict Practice
+
+ # Merge Conflict Practice
 ### Commands I used:
 - git checkout -b branch-one
 - git add about.html
