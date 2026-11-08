@@ -69,8 +69,3 @@ iyf-s12-week-03-carlosadenge/
 - **LinkedIn:** [Carlos Adenge](https://www.linkedin.com/in/carlosadenge)
 - **GitHub:** [@carlosadenge](https://github.com/carlosadenge)
 
-## Collaboration
-- **Partner:** (Add your partner’s GitHub username if assigned)
-- **Pair repo:** (Add the pair repository link)
-- **PR I opened:** (Add link)
-- **PR I reviewed:** (Add link)
