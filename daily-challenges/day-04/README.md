@@ -19,3 +19,4 @@ Practiced writing professional commit messages using the required course format.
 - `Update: improve about page content`
 - `Add: daily challenges day 1 and day 2`
 - `Add: day 3 HTML boilerplate script`
+<img width="681" height="374" alt="day4" src="https://github.com/user-attachments/assets/00418d10-96ee-4b1c-bebd-a1e9724bad40" />
