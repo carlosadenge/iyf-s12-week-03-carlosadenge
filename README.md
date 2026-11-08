@@ -23,7 +23,6 @@ This week I focused on mastering the command line (Git Bash) and professional Gi
 - Git Bash (Command Line)
 
 ## Project Structure
-\`\`\`
 iyf-s12-week-03-yourusername/
 ├── index.html
 ├── about.html
@@ -32,7 +31,7 @@ iyf-s12-week-03-yourusername/
 ├── css/
 │   └── styles.css
 └── images/
-\`\`\`
+
 
 
 ## What I Learned
