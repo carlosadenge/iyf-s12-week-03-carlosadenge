@@ -57,7 +57,7 @@ iyf-s12-week-03-carlosadenge/
 - Understanding the difference between `git pull` and `git push`
 - Resolving my first merge conflict
 - Remembering to write clear and meaningful commit messages
-- Learning to work confidently in Git Bash
+
 
 ## Future Improvements
 - [ ] Add JavaScript interactivity
