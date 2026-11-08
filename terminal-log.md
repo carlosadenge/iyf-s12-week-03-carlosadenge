@@ -33,3 +33,13 @@ mkdir -p my-project/src/js
 - touch my-project/README.md
 - ls -R my-project
 
+**Task 5.2: File OperationsCommands I used:Bashtouch index.html**
+cat index.html
+cp index.html backup.html
+mv backup.html my-project/docs/
+mv index.html home.html
+rm home.html
+cp -r my-project/src my-project/src-backup
+mkdir my-project/archive
+mv my-project/src-backup my-project/archive/
+rm -r my-project/archive
