@@ -23,17 +23,16 @@ This week I focused on mastering the command line (Git Bash) and professional Gi
 - Git Bash (Command Line)
 
 ## Project Structure
-iyf-s12-week-03-carlosadenge/
+\`\`\`
+iyf-s12-week-03-yourusername/
 ├── index.html
 ├── about.html
 ├── projects.html
 ├── contact.html
-├── styles.css
-├── box-model-practice.html
-├── terminal-log.md
-├── new-project.sh
-├── .gitignore
+├── css/
+│   └── styles.css
 └── images/
+\`\`\`
 
 
 ## What I Learned
