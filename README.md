@@ -80,5 +80,5 @@ iyf-s12-week-03-yourusername/
 - **PR I opened:** https://github.com/Stacy-JOtieno/iyf-s12-week-03-pair-Stacy-JOtieno/pull/2
 - **PR I reviewed:** 1. https://github.com/Stacy-JOtieno/iyf-s12-week-03-pair-Stacy-JOtieno/pull/4
 - **PR I reviewed:** 2. https://github.com/Stacy-JOtieno/iyf-s12-week-03-pair-Stacy-JOtieno/pull/5
-- **Merge-conflict PR:** https://github.com/.../pull/N
+- **Merge-conflict PR:** https://github.com/Stacy-JOtieno/iyf-s12-week-03-pair-Stacy-JOtieno/pull/6
 
