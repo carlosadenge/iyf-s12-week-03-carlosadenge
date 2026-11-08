@@ -74,9 +74,11 @@ iyf-s12-week-03-yourusername/
 
   ## Collaboration
 
-- **Partner:** [@Stacy-JOtieno](https://github.com/Stacy-JOtieno)
+- **Partner:** 1. [@Stacy-JOtieno](https://github.com/Stacy-JOtieno)
+               2. [@JosphineMoraa](https://github.com/JosphineMoraa)
 - **Pair repo:** https://github.com/Stacy-JOtieno/iyf-s12-week-03-pair-Stacy-JOtieno
 - **PR I opened:** https://github.com/Stacy-JOtieno/iyf-s12-week-03-pair-Stacy-JOtieno/pull/2
 - **PR I reviewed:** https://github.com/Stacy-JOtieno/iyf-s12-week-03-pair-Stacy-JOtieno/pull/4
+                     https://github.com/Stacy-JOtieno/iyf-s12-week-03-pair-Stacy-JOtieno/pull/5
 - **Merge-conflict PR:** https://github.com/.../pull/N
 
