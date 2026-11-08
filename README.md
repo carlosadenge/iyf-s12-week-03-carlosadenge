@@ -1,9 +1,4 @@
 
----
-
-### 2. `README.md`
-
-```markdown
 # Carlos Adenge – Week 03 Project
 
 This is my Week 3 project for the IYF Weekend Academy Season 12.  
