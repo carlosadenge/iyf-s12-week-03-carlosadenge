@@ -19,6 +19,7 @@
 - mkdir my-project/tests
 - touch my-project/README.md
 - ls -R my-project
+<img width="722" height="421" alt="08 11 2026_11 17 48_REC" src="https://github.com/user-attachments/assets/257c83e3-c4e4-42b3-a503-cac9583f1b80" />
 
 ## What each command did:
 - pwd → showed my current directory
@@ -78,6 +79,8 @@
 - git add new-project.sh
 - git commit -m "Add: project setup shell script"
 - git push origin main
+- <img width="622" height="310" alt="08 11 2026_13 01 07_REC" src="https://github.com/user-attachments/assets/c56a4e0a-46a3-4339-b035-3ee49f035ca0" />
+
 
 ## What I learned:
 - How to check Git configuration
@@ -94,6 +97,8 @@
 - git merge feature/about-page
 - git branch -d feature/about-page
 - git push origin main
+- <img width="640" height="376" alt="08 11 2026_11 58 42_REC" src="https://github.com/user-attachments/assets/48faa583-7051-4591-989c-88ac22401599" />
+
 
 # What I learned:
 - How to create a new branch
@@ -119,6 +124,8 @@
 - git branch -d branch-one
 - git branch -d branch-two
 - git push origin main
+- <img width="615" height="370" alt="08 11 2026_13 02 09_REC" src="https://github.com/user-attachments/assets/d7bc0459-508f-4f07-a333-7b760d2d205c" />
+
 
 ### How a merge conflict happens when two branches change the same line
 - How to open the file and remove conflict markers
